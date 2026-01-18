@@ -278,7 +278,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**mirz7**
+**Muhammed Mirza P N**
 
 - GitHub: [@mirz7](https://github.com/mirz7)
 - Repository: [django-react-notes-app](https://github.com/mirz7/django-react-notes-app)
@@ -317,6 +317,7 @@ Need help or have questions?
 **Happy Note Taking! 📝✨**
 
 *Made with Django REST Framework & React*
+
 
 
 
