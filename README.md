@@ -5,9 +5,8 @@ A full-stack **Notes Application** built with **Django REST Framework** as the b
 ---
 
 ## 🎬 Video Preview
-(https://github.com/user-attachments/assets/c91d567f-be9d-45ad-b36c-c3a15cad6f9f)
 
-
+https://github.com/user-attachments/assets/b0983ab4-5f29-4ab6-aef1-9e4c9b12142f
 
 **What to showcase in your demo video:**
 - ✅ Creating new notes
@@ -327,6 +326,7 @@ Need help or have questions?
 **Happy Note Taking! 📝✨**
 
 *Made with Django REST Framework & React*
+
 
 
 
